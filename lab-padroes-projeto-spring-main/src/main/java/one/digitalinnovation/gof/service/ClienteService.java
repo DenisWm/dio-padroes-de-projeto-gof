@@ -1,6 +1,6 @@
 package one.digitalinnovation.gof.service;
 
-import one.digitalinnovation.gof.model.Cliente;
+import one.digitalinnovation.gof.domain.Cliente;
 
 /**
  * Interface que define o padrão <b>Strategy</b> no domínio de cliente. Com
